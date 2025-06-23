@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kavya Tiwari and I'm a from India</h2>
+<h2 align="left">Hello World!👋, My name is Kavya Tiwari</h2>
 
 ###
 
